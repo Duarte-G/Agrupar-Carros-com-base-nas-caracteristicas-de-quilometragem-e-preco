@@ -8,6 +8,10 @@ Algoritmo K-Means para agrupar carros contidos na tabela com base nas caracterí
  - **Grupo Amarelo**: Carros com baixa quilometragem e preço alto(Média de quilometragem: 10219 Km, Média de preço: U$ 41769,36);
  - **Grupo Verde**: Carros com alta quilometragem e preço alto(Média de quilometragem: 23966 Km, Média de preço: U$ 32068,11).
 
+<p align="center">
+  <img src="https://github.com/Duarte-G/Atividade-Proposta-Card-11/assets/106328204/d7431389-4ce9-46c4-913a-edbc6dc46bab">
+</p>
+
  Esses grupos oferecem uma visão detalhada do mercado de carros usados, destacando diferentes perfis de consumidores e oportunidades de negócios. Podendo ser muito úti usando em um banco de dados de carros reais para extrair algumas informações. No entanto, é importante considerar que o método K-Means, embora útil, pode ter limitações par perceber alguns casos específicos do mercado, sendo recomendável utilizá-lo em conjunto com outras técnicas e dados adicionais.
 
 ## Ferramentas Utilizadas

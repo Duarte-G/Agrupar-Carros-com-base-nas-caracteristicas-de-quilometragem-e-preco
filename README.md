@@ -1,4 +1,4 @@
-# Atividade Proposta Card 11
+# Agrupar Carros com base nas características de quilometragem e preço
 Algoritmo K-Means para agrupar carros contidos na tabela com base nas características de quilometragem e preço.
 
  Como atividade, utilizei o algoritmo K-Means para agrupar os carros contidos na tabela com base nas características de quilometragem e preço. A forma mais otimizada que encontrei foi utilizando 4 clusters, obtendo um bom resultado para analisar cada grupo.
